@@ -12,8 +12,8 @@ Using CSS GRID, CSS Order property.
 
 ## Creation of Components
 
-*** Navbar
-***
+*** Navbar Section  
+*** Hero Section
 ***
 ***
 
