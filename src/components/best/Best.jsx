@@ -26,4 +26,4 @@ const Best = () => {
   )
 }
 
-export default Best
+export default Best;
