@@ -3,6 +3,8 @@
 Building & Deploying a real estate website from scratch.
 Using CSS GRID, CSS Order property.
 
+![Uploading Capture d’écran 2022-10-05 à 11.35.50.png…]()
+
 ## Installation
 
 ### `npm start`
@@ -16,7 +18,6 @@ Using CSS GRID, CSS Order property.
 *** Hero Section
 *** Best Section
 *** Featured Section
-
 
 
 
